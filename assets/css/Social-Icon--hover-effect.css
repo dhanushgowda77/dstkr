@@ -51,7 +51,8 @@ body {
 @media only screen and (max-width: 590px) {
   .container {
     justify-content: center;
-    padding-left: 50px;
+		align-items: center;
+		display: flex;
   }
 }
 
