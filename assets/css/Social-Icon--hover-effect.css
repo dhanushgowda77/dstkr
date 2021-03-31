@@ -48,7 +48,7 @@ body {
   transition: 0.5s all;
 }
 
-@media only screen and (max-width: 380px) {
+@media only screen and (max-width: 590px) {
   .container {
     justify-content: center;
   }
